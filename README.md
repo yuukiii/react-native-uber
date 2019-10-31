@@ -40,10 +40,10 @@
 This project was developed with the with the following technologies:
 
 -  [React Native](http://facebook.github.io/react-native/)
--  [RN Maps](https://github.com/react-native-community/react-native-maps)
--  [RN Google Places Autocomplete](https://github.com/FaridSafi/react-native-google-places-autocomplete)
--  [RN Maps Directions](https://github.com/bramus/react-native-maps-directions)
--  [RN Geocoding](https://github.com/marlove/react-native-geocoding)
+-  [React Native Maps](https://github.com/react-native-community/react-native-maps)
+-  [React Native Google Places Autocomplete](https://github.com/FaridSafi/react-native-google-places-autocomplete)
+-  [React Native Maps Directions](https://github.com/bramus/react-native-maps-directions)
+-  [React Native Geocoding](https://github.com/marlove/react-native-geocoding)
 -  [styled-components](https://www.styled-components.com/)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
