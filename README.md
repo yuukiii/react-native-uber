@@ -40,11 +40,10 @@
 This project was developed with the with the following technologies:
 
 -  [React Native](http://facebook.github.io/react-native/)
--  [React Navigation](https://reactnavigation.org/)
--  [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
--  [styled-components](https://www.styled-components.com/)
--  [react-native-vector-icons](https://oblador.github.io/react-native-vector-icons/)
--  [react-native-qrcode](https://www.npmjs.com/package/react-native-qrcode)
+-  [RN Maps](https://github.com/react-native-community/react-native-maps)
+-  [RN Google Places Autocomplete](https://github.com/FaridSafi/react-native-google-places-autocomplete)
+-  [RN Maps Directions](https://github.com/bramus/react-native-maps-directions)
+-  [RN Geocoding](https://github.com/marlove/react-native-geocoding)
 -  [styled-components](https://www.styled-components.com/)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
