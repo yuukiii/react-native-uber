@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="React GitHub Repo List" src="https://banner2.cleanpng.com/20180728/vsw/kisspng-logo-uber-brand-logo-uber-5b5c5cc0f1b550.8818960215327797129901.jpg" />
+    <img alt="React GitHub Repo List" src="https://media.hugogloss.uol.com.br/uploads/2019/05/pennsylvania-sues-uber-over-late-breach-notification-showcase_image-7-a-10703-1.jpg" />
     <br>
     Uber React Native Clone
 </h1>
 
 <h4 align="center">
-  A react native clone of #1 transport app: <a href="https://nubank.com.br/">Uber</a>
+ 🚗 A react native clone of #1 transport app: <a href="https://nubank.com.br/">Uber</a>
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/feliperodriguess/react-native-uber.svg">
