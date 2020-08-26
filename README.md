@@ -1,16 +1,12 @@
 <h1 align="center">
-    <img alt="React GitHub Repo List" src="https://media.hugogloss.uol.com.br/uploads/2019/05/pennsylvania-sues-uber-over-late-breach-notification-showcase_image-7-a-10703-1.jpg" />
     <br>
-    Uber React Native Clone
+    Fetcher Uber React Native 
 </h1>
 
 <h4 align="center">
  🚗 A react native clone of #1 transport app: <a href="https://nubank.com.br/">Uber</a>
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/feliperodriguess/react-native-uber.svg">
-  
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/feliperodriguess/react-native-uber.svg">
   
   <a href="https://www.codacy.com/app/feliperodriguess/react-native-uber?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/nubank-react-native&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/fa0599d8f0434c7388ae9549c8aeb90b.svg">
